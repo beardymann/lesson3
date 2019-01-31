@@ -1,13 +1,13 @@
 .logo{
 	width: 100px;
-	margin-top: 20px;
-	margin-left: 20px;
+	
+	
 }
 .title{
 	font-size: 22px;
 	color: #3D58A6;
 	margin-top: 20px;
-	margin-left: 30px;
+	
 }
 .banner{
 	width: 1200px;
@@ -23,4 +23,92 @@
 	width: 25px;
 	margin-left: 30px;
 	margin-top: 30px;
+}
+.active{
+	color: #EE4036;
+	
+}
+.body{
+	padding: 35px;
+}
+.date{
+	font-size: 48px;
+	color: #fff;
+	background-color: #3D58A6;
+}
+.section{
+	margin-top: 45px;
+	margin-left: 10px;
+}
+.tve{
+	margin-top: 5px;
+}
+.satauri{
+	font-size: 25px;
+	padding-top: 35px;
+	padding-left: 30px;
+	color:  #EE4036;
+}
+.surati2{
+	margin-top: 30px;
+	margin-left: 30px;
+	width: 350px;
+}
+.teqsti{
+	font-size: 22px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.teqsti2{
+	padding-top: 30px;
+	padding-left: 30px;
+	font-size: 22px;
+}
+.teqsti3{
+	padding-top: 35px;
+	padding-left: 30px;
+	font-size: 18px;
+}
+	
+.section2{
+	margin-top: 45px;
+	margin-left: 10px;
+}
+.date2{
+	font-size: 48px;
+	color: #fff;
+	background-color: #3D58A6;
+	margin-left: 0px;
+}
+.tve2{
+	margin-top: 5px;
+}
+.satauri2{
+	font-size: 25px;
+	padding-top: 35px;
+	padding-left: 30px;
+	color: #EE4036;
+}
+.surati3{
+	margin-top:30px;
+	margin-left: 30px;
+	width: 350px; 
+}
+.teqsti4{
+	padding-top: 35px;
+	padding-left: 30px;
+	font-size: 22px;
+}
+.teqsti5{
+	padding-top: 35px;
+	padding-left: 30px;
+	font-size: 22px;
+}
+.teqsti6{
+	font-size: 22px;
+	padding-left: 30px;
+}
+.teqsti7{
+	font-size: 22px;
+	padding-left: 30px;
 }
